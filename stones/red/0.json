@@ -1,5 +1,5 @@
 {
-    "name": "Test Stone1",
+    "name": "Test Stone level 1",
     "description": "Test Stone Description",
-    "image": "https://github.com/ilkatel/stones/blob/main/stones/red/0.png?raw=true"
-}
+    "image": "https://raw.githubusercontent.com/ilkatel/stones/main/stones/red/0.png"
+} 
